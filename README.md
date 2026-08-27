@@ -1,1 +1,5 @@
-use Unity Editor version 2022.3.62f3
+# BPSim
+
+Wow uh... there is nothing in this README...
+
+*(Project uses Unity Editor 2022.3.62f3)*
